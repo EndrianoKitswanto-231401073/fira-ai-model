@@ -1,6 +1,6 @@
 import nltk
-# nltk.download('punkt')
-# nltk.download('punkt_tab')
+nltk.download('punkt')
+nltk.download('punkt_tab')
 
 import re
 import string
